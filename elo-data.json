@@ -31,8 +31,9 @@
       "discordId": "1484600552733278291",
       "elo": 202,
       "streak": 0,
-      "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
+      "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "lastOpponent": null
     }
   ],
-  "lastUpdated": 1781058136
+  "lastUpdated": 1781058137
 }
