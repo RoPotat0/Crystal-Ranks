@@ -22,7 +22,8 @@
       "discordId": "1239969659185401956",
       "elo": 241,
       "streak": 1,
-      "avatar": "https://cdn.discordapp.com/avatars/1239969659185401956/4c693cb7a27f50e0f2027caf79a533a4.png?size=1024"
+      "avatar": "https://cdn.discordapp.com/avatars/1239969659185401956/e9df00699430ab9c2d8000a80d1df4d0.png?size=1024",
+      "lastOpponent": null
     },
     {
       "name": "Hans",
@@ -33,5 +34,5 @@
       "avatar": "https://cdn.discordapp.com/embed/avatars/2.png"
     }
   ],
-  "lastUpdated": 1777225410
+  "lastUpdated": 1781057567
 }
